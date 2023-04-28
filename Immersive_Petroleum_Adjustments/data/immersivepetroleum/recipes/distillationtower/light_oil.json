@@ -1,0 +1,37 @@
+{
+  "type": "immersivepetroleum:distillation",
+  "byproducts": [
+    {
+      "item": "immersiveengineering:dust_sulfur",
+      "chance": "0.2"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "thermal:refined_fuel",
+      "amount": 20
+    },
+    {
+      "fluid": "kubejs:isobutylene",
+      "amount": 20
+    },
+    {
+      "fluid": "kubejs:toluene",
+      "amount": 20
+    },
+    {
+      "fluid": "immersivepetroleum:benzene",
+      "amount": 20
+    },
+    {
+	"fluid": "kubejs:methane",
+	"amount": 20
+    }
+  ],
+  "input": {
+    "tag": "forge:light_oil",
+    "amount": 100
+  },
+  "time": 1,
+  "energy": 1024
+}

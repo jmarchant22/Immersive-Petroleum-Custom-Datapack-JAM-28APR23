@@ -1,0 +1,13 @@
+{
+  "type": "immersivepetroleum:hydrotreater",
+  "time": 60,
+  "energy": 61440,
+  "result": {
+    "fluid": "electrodynamics:fluidpolyethylene",
+    "amount": 200
+  },
+  "input": {
+    "tag": "forge:ethylene",
+    "amount": 150
+  }
+}
