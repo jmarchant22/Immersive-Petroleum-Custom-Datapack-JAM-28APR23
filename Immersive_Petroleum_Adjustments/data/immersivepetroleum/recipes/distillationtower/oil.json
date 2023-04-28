@@ -24,11 +24,11 @@
       "amount": 12
     },
 	{
-		"fluid": "thermal:light_oil",
+		"fluid": "minecraft:water",
 		"amount": 12
 	},
 	{
-		"fluid": "thermal:heavy_oil",
+		"fluid": "minecraft:lava",
 		"amount": 12
 	}
   ],
