@@ -11,7 +11,7 @@
     "amount": 24
   },
   "secondary_input": {
-    "tag": "forge:steam",
+    "fluid": "minecraft:lava",
     "amount": 5
   },
   "secondary_result": {
